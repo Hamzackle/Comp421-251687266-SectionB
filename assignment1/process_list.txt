@@ -1,0 +1,52 @@
+PID     Name                      Path
+--------------------------------------------------------------
+4       System                    N/A
+384     System Idle Process       N/A
+560     smss.exe                  C:\Windows\System32\smss.exe
+912     wininit.exe               C:\Windows\System32\wininit.exe
+928     csrss.exe                 C:\Windows\System32\csrss.exe
+1104    services.exe              C:\Windows\System32\services.exe
+1140    lsass.exe                 C:\Windows\System32\lsass.exe
+1176    svchost.exe               C:\Windows\System32\svchost.exe
+1304    svchost.exe               C:\Windows\System32\svchost.exe
+1420    dwm.exe                   C:\Windows\System32\dwm.exe
+1528    spoolsv.exe               C:\Windows\System32\spoolsv.exe
+1600    audiodg.exe               C:\Windows\System32\audiodg.exe
+1824    taskhostw.exe             C:\Windows\System32\taskhostw.exe
+2036    svchost.exe               C:\Windows\System32\svchost.exe
+2484    svchost.exe               C:\Windows\System32\svchost.exe
+2588    svchost.exe               C:\Windows\System32\svchost.exe
+2700    wmiapsrv.exe              C:\Windows\System32\wbem\wmiapsrv.exe
+3208    explorer.exe              C:\Windows\explorer.exe
+3416    SearchUI.exe              C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\SearchUI.exe
+3612    RuntimeBroker.exe         C:\Windows\System32\RuntimeBroker.exe
+3844    ShellExperienceHost.exe   C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe
+4032    chrome.exe                C:\Program Files\Google\Chrome\Application\chrome.exe
+4068    chrome.exe                C:\Program Files\Google\Chrome\Application\chrome.exe
+4076    chrome.exe                C:\Program Files\Google\Chrome\Application\chrome.exe
+4240    taskmgr.exe               C:\Windows\System32\taskmgr.exe
+4392    OneDrive.exe              C:\Users\User\AppData\Local\Microsoft\OneDrive\OneDrive.exe
+4436    SkypeApp.exe              C:\Program Files\WindowsApps\Microsoft.SkypeApp_kzf8qxf38zg5c\SkypeApp.exe
+4600    python.exe                C:\Users\User\AppData\Local\Programs\Python\Python39\python.exe
+5004    powershell.exe            C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+5092    notepad.exe               C:\Windows\notepad.exe
+5328    Teams.exe                 C:\Users\User\AppData\Local\Microsoft\Teams\Teams.exe
+5612    Code.exe                  C:\Program Files\Microsoft VS Code\Code.exe
+5864    Git.exe                   C:\Program Files\Git\bin\Git.exe
+6040    Discord.exe               C:\Users\User\AppData\Local\Discord\app-1.0.9008\Discord.exe
+6200    Zoom.exe                  C:\Users\User\AppData\Roaming\Zoom\bin\Zoom.exe
+6320    Spotify.exe               C:\Users\User\AppData\Roaming\Spotify\Spotify.exe
+6412    firefox.exe               C:\Program Files\Mozilla Firefox\firefox.exe
+6548    vlc.exe                   C:\Program Files\VideoLAN\VLC\vlc.exe
+6712    WhatsApp.exe              C:\Users\User\AppData\Local\WhatsApp\WhatsApp.exe
+6896    Dropbox.exe               C:\Program Files\Dropbox\Client\Dropbox.exe
+7108    brave.exe                 C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+7236    Outlook.exe               C:\Program Files\Microsoft Office\Office16\Outlook.exe
+7400    Edge.exe                  C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+7556    Steam.exe                 C:\Program Files (x86)\Steam\Steam.exe
+7728    EpicGamesLauncher.exe     C:\Program Files\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe
+7852    obs64.exe                 C:\Program Files\OBS Studio\bin\64bit\obs64.exe
+8004    adobe_acrobat.exe         C:\Program Files\Adobe\Acrobat DC\Acrobat\acrobat.exe
+8156    paint.exe                 C:\Windows\System32\mspaint.exe
+8320    ZoomIT.exe                C:\Program Files\Sysinternals\ZoomIt.exe
+8452    calculator.exe            C:\Windows\System32\calc.exe
